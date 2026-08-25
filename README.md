@@ -6,6 +6,7 @@
 - call: 01751330394
 - mail: sadakatulshakil94@gmail.com
 - Portfolio: https://shakil-latest-profolio.web.app
+- Unique Portfolio: https://shakil-exe.web.app/
 
 <!---
 SadakatulShakil/SadakatulShakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
